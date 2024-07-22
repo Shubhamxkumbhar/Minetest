@@ -3,28 +3,26 @@ version: 0.2
 phases:
   install:
     runtime-versions:
-      nodejs: 12
-      python: 3.8
+      buildtools: [cmake]
+      # Include other build tools if necessary (e.g., gcc, clang)
     commands:
-      - echo "Installing dependencies..."
+      - echo Installing dependencies...
       - apt-get update
-      - apt-get install -y cmake build-essential libirrlicht-dev libbz2-dev libpng-dev libjpeg-dev libxxf86vm-dev libgl1-mesa-dev libsqlite3-dev libogg-dev libvorbis-dev libopenal-dev libcurl4-gnutls-dev libfreetype6-dev zlib1g-dev libjsoncpp-dev libluajit-5.1-dev libgmp-dev libncurses5-dev libreadline-dev libssl-dev
+      - apt-get install -y g++ make
 
   pre_build:
     commands:
-      - echo "Setting up the build environment..."
-      - mkdir -p build
-      - cd build
+      - echo Starting pre-build phase...
 
   build:
     commands:
-      - echo "Building the project..."
-      - cmake ..
+      - echo Building the project...
+      - cmake .
       - cmake --build .
 
   post_build:
     commands:
-      - echo "Build completed successfully."
+      - echo Build completed.
 
 artifacts:
   files:
