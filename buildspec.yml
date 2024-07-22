@@ -2,13 +2,10 @@ version: 0.2
 
 phases:
   install:
-    runtime-versions:
-      buildtools: cmake
-      # Include other build tools if necessary (e.g., gcc, clang)
     commands:
       - echo Installing dependencies...
       - apt-get update
-      - apt-get install -y g++ make
+      - apt-get install -y cmake g++ make
 
   pre_build:
     commands:
