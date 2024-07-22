@@ -8,13 +8,10 @@ set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 # Add the executable
-add_executable(Minetest 
+add_executable(Minetest
+    # Add the source files here
     src/main.cpp 
-    src/client/client.cpp
-    src/server/server.cpp
-    src/game/game.cpp
-    src/utilities/util.cpp
-    # Add other source files here
+    # Include other source files as needed
 )
 
 # Include directories
@@ -22,3 +19,17 @@ include_directories(${CMAKE_SOURCE_DIR}/include)
 
 # Link libraries (if any)
 # target_link_libraries(Minetest PRIVATE some_library)
+
+# Add subdirectories for additional modules or parts of the project
+add_subdirectory(client)
+add_subdirectory(clientmods)
+add_subdirectory(doc)
+add_subdirectory(fonts)
+add_subdirectory(games)
+add_subdirectory(locale)
+add_subdirectory(mods)
+add_subdirectory(textures)
+add_subdirectory(worlds)
+
+# Optional: add definitions if necessary
+# add_definitions(-DSOME_DEFINITION)

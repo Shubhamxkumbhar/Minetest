@@ -6,26 +6,27 @@ phases:
       nodejs: 12
       python: 3.8
     commands:
-      - echo "Installing dependencies"
+      - echo "Installing dependencies..."
       - apt-get update
       - apt-get install -y cmake build-essential libirrlicht-dev libbz2-dev libpng-dev libjpeg-dev libxxf86vm-dev libgl1-mesa-dev libsqlite3-dev libogg-dev libvorbis-dev libopenal-dev libcurl4-gnutls-dev libfreetype6-dev zlib1g-dev libjsoncpp-dev libluajit-5.1-dev libgmp-dev libncurses5-dev libreadline-dev libssl-dev
 
   pre_build:
     commands:
-      - echo "Starting pre-build phase"
+      - echo "Setting up the build environment..."
+      - mkdir -p build
+      - cd build
 
   build:
     commands:
-      - echo "Starting build phase"
-      - mkdir -p build
-      - cd build
-      - cmake .. -DRUN_IN_PLACE=TRUE
-      - make
+      - echo "Building the project..."
+      - cmake ..
+      - cmake --build .
 
   post_build:
     commands:
-      - echo "Build completed"
+      - echo "Build completed successfully."
 
 artifacts:
   files:
     - '**/*'
+  discard-paths: no
