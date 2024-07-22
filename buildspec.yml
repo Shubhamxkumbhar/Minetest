@@ -1,0 +1,19 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      nodejs: 12
+      python: 3.8
+    commands:
+      - apt-get update
+      - apt-get install -y cmake build-essential libirrlicht-dev libbz2-dev libpng-dev libjpeg-dev libxxf86vm-dev libgl1-mesa-dev libsqlite3-dev libogg-dev libvorbis-dev libopenal-dev libcurl4-gnutls-dev libfreetype6-dev zlib1g-dev libjsoncpp-dev libluajit-5.1-dev libgmp-dev libncurses5-dev libreadline-dev libssl-dev
+  build:
+    commands:
+      - mkdir -p build
+      - cd build
+      - cmake .. -DRUN_IN_PLACE=TRUE
+      - make -j$(nproc)
+artifacts:
+  files:
+    - '**/*'
