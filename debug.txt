@@ -1,0 +1,212 @@
+
+
+-------------
+  Separator
+-------------
+
+2024-05-30 15:32:02: ERROR[Main]: RecursiveDelete: Failed to delete file C:\Users\Shubham\OneDrive\Documents\NCI\Research Project\Game\minetest-5.8.0-win64\games\minetest_game
+2024-05-30 15:32:14: ACTION[Main]: Installed package to C:\Users\Shubham\OneDrive\Documents\NCI\Research Project\Game\minetest-5.8.0-win64\games\minetest_game
+2024-05-30 15:33:13: ERROR[Main]: RecursiveDelete: Failed to delete file C:\Users\Shubham\OneDrive\Documents\NCI\Research Project\Game\minetest-5.8.0-win64\games\mineclone2
+2024-05-30 15:33:13: ACTION[Main]: Installed package to C:\Users\Shubham\OneDrive\Documents\NCI\Research Project\Game\minetest-5.8.0-win64\games\mineclone2
+
+
+-------------
+  Separator
+-------------
+
+2024-05-30 15:35:00: ACTION[Main]: World at [C:\Users\Shubham\OneDrive\Documents\NCI\Research Project\Game\minetest-5.8.0-win64\bin\..\worlds\Shubham]
+2024-05-30 15:35:00: ACTION[Main]: Server for gameid="minetest" listening on 127.0.0.1:53113.
+2024-05-30 15:35:01: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2024-05-30 15:35:33: ACTION[Server]: CHAT: <singleplayer> tf
+2024-05-30 15:35:40: ACTION[Server]: singleplayer digs default:sand at (156,4,299)
+2024-05-30 15:35:41: ACTION[Server]: singleplayer digs default:sand at (156,4,300)
+2024-05-30 15:35:42: ACTION[Server]: singleplayer digs default:sand at (157,3,299)
+2024-05-30 15:35:43: ACTION[Server]: singleplayer digs default:sand at (157,3,298)
+2024-05-30 15:35:43: ACTION[Server]: singleplayer digs default:sand at (156,3,298)
+2024-05-30 15:35:43: ACTION[Server]: singleplayer digs default:sand at (155,3,298)
+2024-05-30 15:35:44: ACTION[Server]: singleplayer digs default:sand at (158,3,299)
+2024-05-30 15:35:44: ACTION[Server]: singleplayer digs default:sand at (158,3,298)
+2024-05-30 15:35:45: ACTION[Server]: singleplayer digs default:sand at (159,3,298)
+2024-05-30 15:35:45: ACTION[Server]: singleplayer digs default:sand at (159,3,297)
+2024-05-30 15:35:45: ACTION[Server]: singleplayer digs default:sand at (159,3,296)
+2024-05-30 15:35:45: ACTION[Server]: singleplayer digs default:sand at (159,2,296)
+2024-05-30 15:35:45: ACTION[Server]: singleplayer digs default:sand at (159,2,295)
+2024-05-30 15:35:46: ACTION[Server]: singleplayer digs default:sand at (160,2,295)
+2024-05-30 15:35:46: ACTION[Server]: singleplayer digs default:sand at (160,3,296)
+2024-05-30 15:35:46: ACTION[Server]: singleplayer digs default:sand at (160,2,295)
+2024-05-30 15:35:47: ACTION[Server]: singleplayer digs default:sand at (161,2,295)
+2024-05-30 15:35:47: ACTION[Server]: singleplayer digs default:sand at (161,2,294)
+2024-05-30 15:35:47: ACTION[Server]: singleplayer digs default:sand at (161,2,293)
+2024-05-30 15:35:47: ACTION[Server]: player singleplayer (id=1, hp=20) punched LuaEntitySAO "__builtin:falling_node" at (161,2,295) (id=10, hp=10), damage=0
+2024-05-30 15:35:47: ACTION[Server]: singleplayer digs default:sand at (161,2,295)
+2024-05-30 15:35:47: ACTION[Server]: singleplayer digs default:sand at (161,2,294)
+2024-05-30 15:35:48: ACTION[Server]: singleplayer digs default:sand at (161,2,293)
+2024-05-30 15:35:48: ACTION[Server]: singleplayer digs default:sand at (162,2,293)
+2024-05-30 15:35:48: ACTION[Server]: singleplayer digs default:sand at (162,2,292)
+2024-05-30 15:35:48: ACTION[Server]: singleplayer digs default:sand at (162,2,291)
+2024-05-30 15:35:49: ACTION[Server]: singleplayer digs default:sand at (162,2,293)
+2024-05-30 15:35:49: ACTION[Server]: singleplayer digs default:sand at (162,2,292)
+2024-05-30 15:35:49: ACTION[Server]: singleplayer digs default:sand at (162,2,291)
+2024-05-30 15:35:50: ACTION[Server]: singleplayer digs default:sand at (161,2,297)
+2024-05-30 15:35:50: ACTION[Server]: singleplayer digs default:sand at (161,2,296)
+2024-05-30 15:35:51: ACTION[Server]: singleplayer digs default:sand at (162,2,295)
+2024-05-30 15:35:52: ACTION[Server]: singleplayer digs default:sand at (159,2,300)
+2024-05-30 15:35:52: ACTION[Server]: singleplayer digs default:sand at (159,1,300)
+2024-05-30 15:35:52: ACTION[Server]: singleplayer digs default:sand at (159,0,300)
+2024-05-30 15:35:53: ACTION[Server]: singleplayer digs default:stone at (159,-1,300)
+2024-05-30 15:35:53: ACTION[Server]: singleplayer digs default:stone at (159,-2,300)
+2024-05-30 15:35:54: ACTION[Server]: singleplayer digs default:stone at (159,-3,300)
+2024-05-30 15:35:54: ACTION[Server]: singleplayer digs default:stone at (159,-4,300)
+2024-05-30 15:35:55: ACTION[Server]: singleplayer digs default:stone at (159,-5,300)
+2024-05-30 15:35:55: ACTION[Server]: singleplayer digs default:stone at (159,-6,300)
+2024-05-30 15:35:55: ACTION[Server]: singleplayer digs default:stone at (159,-7,300)
+2024-05-30 15:35:55: ACTION[Server]: singleplayer digs default:stone at (159,-8,300)
+2024-05-30 15:35:55: ACTION[Server]: singleplayer digs default:stone at (159,-9,300)
+2024-05-30 15:35:56: ACTION[Server]: singleplayer digs default:stone at (159,-10,300)
+2024-05-30 15:35:56: ACTION[Server]: singleplayer digs default:stone at (159,-11,300)
+2024-05-30 15:35:56: ACTION[Server]: singleplayer digs default:stone at (159,-12,300)
+2024-05-30 15:35:58: ACTION[Server]: singleplayer digs default:stone at (159,-11,299)
+2024-05-30 15:35:58: ACTION[Server]: singleplayer digs default:stone at (159,-11,298)
+2024-05-30 15:35:59: ACTION[Server]: singleplayer digs default:stone at (159,-12,298)
+2024-05-30 15:35:59: ACTION[Server]: singleplayer digs default:stone at (159,-10,299)
+2024-05-30 15:36:00: ACTION[Server]: singleplayer digs default:stone at (159,-9,299)
+2024-05-30 15:36:02: ACTION[Server]: singleplayer digs default:stone at (159,-10,298)
+2024-05-30 15:36:03: ACTION[Server]: singleplayer digs default:stone at (159,-11,297)
+2024-05-30 15:36:08: ACTION[Server]: singleplayer digs default:stone at (159,-13,300)
+2024-05-30 15:36:09: ACTION[Server]: singleplayer digs default:stone at (159,-14,300)
+2024-05-30 15:36:09: ACTION[Server]: singleplayer digs default:stone at (159,-15,300)
+2024-05-30 15:36:10: ACTION[Server]: singleplayer digs default:stone_with_coal at (159,-16,300)
+2024-05-30 15:36:12: ACTION[Server]: singleplayer digs default:stone at (160,-15,300)
+2024-05-30 15:36:12: ACTION[Server]: singleplayer digs default:stone at (160,-16,300)
+2024-05-30 15:36:14: ACTION[Server]: singleplayer digs default:stone at (161,-15,300)
+2024-05-30 15:36:17: ACTION[Server]: singleplayer digs default:stone at (161,-16,300)
+2024-05-30 15:36:18: ACTION[Server]: singleplayer digs default:stone at (162,-16,300)
+2024-05-30 15:36:20: ACTION[Server]: singleplayer digs default:stone at (162,-15,300)
+2024-05-30 15:36:21: ACTION[Server]: singleplayer digs default:stone at (163,-15,300)
+2024-05-30 15:36:21: ACTION[Server]: singleplayer digs default:stone at (164,-15,300)
+2024-05-30 15:36:21: ACTION[Server]: singleplayer digs default:stone at (165,-15,300)
+2024-05-30 15:36:22: ACTION[Server]: singleplayer digs default:stone at (166,-15,300)
+2024-05-30 15:36:22: ACTION[Server]: singleplayer digs default:stone at (167,-15,300)
+2024-05-30 15:36:22: ACTION[Server]: singleplayer digs default:stone at (168,-15,300)
+2024-05-30 15:36:22: ACTION[Server]: singleplayer digs default:stone at (169,-15,300)
+2024-05-30 15:36:22: ACTION[Server]: singleplayer digs default:stone at (170,-15,300)
+2024-05-30 15:36:23: ACTION[Server]: singleplayer digs default:stone at (163,-16,300)
+2024-05-30 15:36:24: ACTION[Server]: singleplayer digs default:stone at (164,-16,300)
+2024-05-30 15:36:24: ACTION[Server]: singleplayer digs default:stone at (165,-16,300)
+2024-05-30 15:36:24: ACTION[Server]: singleplayer digs default:stone at (166,-16,300)
+2024-05-30 15:36:24: ACTION[Server]: singleplayer digs default:stone at (166,-17,300)
+2024-05-30 15:36:27: ACTION[Server]: singleplayer digs default:stone at (167,-16,300)
+2024-05-30 15:36:28: ACTION[Server]: singleplayer digs default:stone at (168,-16,300)
+2024-05-30 15:36:29: ACTION[Server]: singleplayer digs default:stone at (167,-17,300)
+2024-05-30 15:36:30: ACTION[Server]: singleplayer digs default:stone at (166,-18,300)
+2024-05-30 15:36:30: ACTION[Server]: singleplayer digs default:stone at (166,-19,300)
+2024-05-30 15:36:31: ACTION[Server]: singleplayer digs default:stone at (166,-20,300)
+2024-05-30 15:36:31: ACTION[Server]: singleplayer digs default:stone at (166,-21,300)
+2024-05-30 15:36:31: ACTION[Server]: singleplayer digs default:stone at (166,-22,300)
+2024-05-30 15:36:31: ACTION[Server]: singleplayer digs default:stone at (166,-23,300)
+2024-05-30 15:36:31: ACTION[Server]: singleplayer digs default:stone at (166,-24,300)
+2024-05-30 15:36:32: ACTION[Server]: singleplayer digs default:stone at (166,-25,300)
+2024-05-30 15:36:32: ACTION[Server]: singleplayer digs default:stone at (166,-26,300)
+2024-05-30 15:36:32: ACTION[Server]: singleplayer digs default:stone at (166,-27,300)
+2024-05-30 15:36:32: ACTION[Server]: singleplayer digs default:stone at (166,-28,300)
+2024-05-30 15:36:32: ACTION[Server]: singleplayer digs default:stone at (166,-29,300)
+2024-05-30 15:36:33: ACTION[Server]: singleplayer digs default:stone at (166,-30,300)
+2024-05-30 15:36:33: ACTION[Server]: singleplayer digs default:stone at (166,-31,300)
+2024-05-30 15:36:33: ACTION[Server]: singleplayer digs default:stone at (166,-32,300)
+2024-05-30 15:36:33: ACTION[Server]: singleplayer digs default:stone at (166,-33,300)
+2024-05-30 15:36:33: ACTION[Server]: singleplayer digs default:stone_with_coal at (166,-34,300)
+2024-05-30 15:36:34: ACTION[Server]: singleplayer digs default:stone_with_coal at (166,-35,300)
+2024-05-30 15:36:34: ACTION[Server]: singleplayer digs default:stone at (166,-36,300)
+2024-05-30 15:36:34: ACTION[Server]: singleplayer digs default:stone at (166,-37,300)
+2024-05-30 15:36:34: ACTION[Server]: singleplayer digs default:stone at (166,-38,300)
+2024-05-30 15:36:34: ACTION[Server]: singleplayer digs default:stone at (166,-39,300)
+2024-05-30 15:36:35: ACTION[Server]: singleplayer digs default:stone at (166,-40,300)
+2024-05-30 15:36:41: ACTION[Server]: singleplayer places node default:sand at (166,-38,300)
+2024-05-30 15:36:44: ACTION[Server]: singleplayer digs default:stone at (167,-39,300)
+2024-05-30 15:36:44: ACTION[Server]: singleplayer digs default:stone_with_coal at (167,-38,300)
+2024-05-30 15:36:45: ACTION[Server]: singleplayer digs default:stone_with_coal at (168,-38,300)
+2024-05-30 15:36:45: ACTION[Server]: singleplayer digs default:stone_with_coal at (169,-38,300)
+2024-05-30 15:36:45: ACTION[Server]: singleplayer digs default:stone at (170,-38,300)
+2024-05-30 15:36:45: ACTION[Server]: singleplayer digs default:stone at (170,-37,300)
+2024-05-30 15:36:45: ACTION[Server]: singleplayer digs default:stone at (171,-37,300)
+2024-05-30 15:36:46: ACTION[Server]: singleplayer digs default:stone at (172,-37,300)
+2024-05-30 15:36:49: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2024-06-03 18:30:52: [Main]: Automatically selecting world at [C:\Users\Shubham\OneDrive\Documents\NCI\Research Project\Game\minetest-5.8.0-win64\bin\..\worlds\Shubham]
+2024-06-03 18:32:32: ERROR[Main]: Please choose a name!
+2024-06-03 18:33:03: ACTION[Main]: World at [C:\Users\Shubham\OneDrive\Documents\NCI\Research Project\Game\minetest-5.8.0-win64\bin\..\worlds\my_test_world]
+2024-06-03 18:33:03: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
+2024-06-03 18:33:07: ACTION[Server]: my_test_world [127.0.0.1] joins game. List of players: my_test_world
+2024-06-03 19:10:19: ACTION[Server]: my_test_world digs default:sand at (-194,12,-108)
+2024-06-03 19:10:23: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2024-07-07 08:50:08: ACTION[Main]: World at [C:\Users\Shubham\OneDrive\Documents\NCI\Research Project\Game\minetest-5.8.0-win64\bin\..\worlds\Shubham]
+2024-07-07 08:50:08: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
+2024-07-07 08:50:10: ACTION[Server]: my_test_world [127.0.0.1] joins game. List of players: my_test_world
+2024-07-07 08:50:13: ACTION[Server]: my_test_world digs default:sand at (192,2,256)
+2024-07-07 08:50:15: ACTION[Server]: my_test_world digs default:sand at (197,3,262)
+2024-07-07 08:50:21: ACTION[Server]: my_test_world digs default:sand at (183,2,257)
+2024-07-07 08:50:23: ACTION[Server]: my_test_world digs default:sand at (182,2,257)
+2024-07-07 08:50:25: ACTION[Server]: my_test_world digs default:sand at (182,3,258)
+2024-07-07 08:50:26: ACTION[Server]: my_test_world digs default:sand at (183,3,259)
+2024-07-07 08:50:27: ACTION[Server]: my_test_world digs default:sand at (182,3,259)
+2024-07-07 08:50:29: ACTION[Server]: my_test_world digs default:sand at (186,3,260)
+2024-07-07 08:50:31: ACTION[Server]: my_test_world digs default:sand at (190,2,259)
+2024-07-07 08:50:32: ACTION[Server]: my_test_world digs default:sand at (190,2,260)
+2024-07-07 08:58:51: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+
+
+-------------
+  Separator
+-------------
+
+
+
+-------------
+  Separator
+-------------
+
+2024-07-07 09:08:54: ERROR[Main]: Connection timed out.
+2024-07-07 09:10:20: ERROR[Main]: Connection timed out.
+
+
+-------------
+  Separator
+-------------
+
+2024-07-17 17:29:41: ERROR[Main]: Connection timed out.
+2024-07-17 17:37:20: ERROR[Main]: Connection timed out.
+2024-07-17 17:37:51: ERROR[Main]: Connection timed out.
+2024-07-17 17:56:47: ERROR[Main]: Connection timed out.
+2024-07-17 17:58:15: ERROR[Main]: Connection timed out.
+2024-07-17 17:58:40: ERROR[Main]: Connection timed out.
+2024-07-17 18:00:03: ERROR[Main]: Connection timed out.
+2024-07-17 18:01:19: ERROR[Main]: Connection timed out.
+2024-07-17 18:01:55: ERROR[Main]: Connection timed out.
+2024-07-19 13:44:45: ERROR[Main]: Access denied. Reason: Name is not registered. To create an account on this server, click 'Register'
+2024-07-19 15:50:08: ERROR[Main]: Access denied. Reason: Connection timed out.
+2024-07-19 15:53:06: ERROR[Main]: Connection timed out.
+2024-07-19 15:54:23: ERROR[Main]: Connection timed out.
+2024-07-19 15:55:06: ERROR[Main]: Connection timed out.
+2024-07-19 15:55:36: ERROR[Main]: Connection timed out.
+2024-07-19 15:56:07: ERROR[Main]: Connection timed out.
+2024-07-19 15:58:45: ERROR[Main]: Connection timed out.
+2024-07-19 15:59:01: ERROR[Main]: Connection timed out.
+2024-07-19 16:19:03: ERROR[Main]: Access denied. Reason: Connection timed out.
+2024-07-19 17:09:42: ERROR[Main]: Access denied. Reason: Connection timed out.
